@@ -1,10 +1,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>protrader</groupId>
+  <groupId>FIDATA</groupId>
   <artifactId>server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>ProTrader Server</name>
-  <description>ProTrader Server</description>
-  <url>http://code.google.com/p/protrader/</url>
+  <name>FIDATA Server</name>
+  <description>FIDATA Server</description>
+  <url>https://github.com/FIDATA/server/</url>
+  <organization>
+  	<name>FIDATA</name>
+  	<url>https://github.com/FIDATA/</url>
+  </organization>
+  <scm>
+  	<connection>scm:git:https://github.com/FIDATA/server.git</connection>
+  	<developerConnection>scm:git:https://github.com/FIDATA/server.git</developerConnection>
+  	<url>https://github.com/FIDATA/server</url>
+  </scm>
+  <issueManagement>
+  	<system>GitHub</system>
+  	<url>https://github.com/FIDATA/server/issues</url>
+  </issueManagement>
 </project>
